@@ -1,7 +1,7 @@
 # dynamic_relu
 Pytorch implentation of Dynamic Relu, proposed by Microsoft in 2020.
 
-**Combined the Dynamic relu A and B together.**
+**Combined the Dynamic Relu A and B together in a single class.**
 
 Notice: You should define your device before using or just replace the code `.to(device)` with `.cuda()`.
 
