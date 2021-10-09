@@ -1,6 +1,7 @@
 # dynamic_relu
 Pytorch implentation of Dynamic Relu, proposed by Microsoft in 2020.
-Combined the Dyrelu A and B together.
+
+**Combined the Dynamic relu A and B together.**
 
 Original Paper: Chen, Yinpeng, et al. "Dynamic relu." European Conference on Computer Vision. Springer, Cham, 2020.
 
