@@ -3,6 +3,8 @@ Pytorch implentation of Dynamic Relu, proposed by Microsoft in 2020.
 
 **Combined the Dynamic relu A and B together.**
 
+Notice: You should define your device before using or just replace the code `.to(device)` with `.cuda()`.
+
 Original Paper: Chen, Yinpeng, et al. "Dynamic relu." European Conference on Computer Vision. Springer, Cham, 2020.
 
 Reference:
